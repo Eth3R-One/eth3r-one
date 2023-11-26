@@ -1,2 +1,5 @@
+# resources to ignore 
 temp/
-/temp-README.md
+
+#temp edited readme 
+temp-README.md
