@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋! My name is Refayth Hossain.</h1>
 <div align="center">
-<img src="./hello.gif" width="360">
+<img src="./resources/hello.gif" width="360">
 </div>
 <br clear="both">
 
